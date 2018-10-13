@@ -1,0 +1,39 @@
+.user_card_container {
+    width: 220px;
+    height: 292px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.user_card_container:hover {
+    border: 1px solid #5eaeff;
+}
+
+.icon {
+    margin-top: 40px;
+    border-radius: 50%;
+    border: 1px solid #E1E1E1;
+}
+
+.name {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.age {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #888888
+}
+
+.skills {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #000000;
+}

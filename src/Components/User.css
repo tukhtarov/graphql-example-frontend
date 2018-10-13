@@ -1,0 +1,55 @@
+.back-arrow-container {
+    padding-left: 40px;
+    padding-top: 33px;
+}
+
+.back-arrow-text {
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px
+}
+
+.icon {
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 1px solid #E1E1E1;
+}
+
+.user-info-block {
+    text-align: center;
+}
+
+.name {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.age {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #888888
+}
+
+.horizontal-line {
+    width: 500px;
+    height: 1px;
+    border-bottom: 1px solid #D5D5D5;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.lang-frame-container {
+    margin-top: 20px;
+}
+
+.lang-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.frameworks-list {
+    font-size: 16px;
+}

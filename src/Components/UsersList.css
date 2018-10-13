@@ -1,0 +1,14 @@
+.background {
+    background-color: #E5E5E5;
+    height: 100%;
+}
+
+.users-list-container {
+    display: flex;
+    max-width: 800px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
